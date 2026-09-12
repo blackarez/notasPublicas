@@ -1,8 +1,14 @@
 ---
 Para: Gatos
 Cantidad:
-description: Ayuda a la digestión y estreñimiento.
+Descripcion: Ayuda a la digestión y estreñimiento.
 Imagen: "[[Calabazas.png]]"
 Permitida: true
 ---
-![[Calabazas.png]]
+
+Cantidad:
+Descripcion: Ayuda a la digestión y estreñimiento.
+Imagen: "[[Calabazas.png]]"
+Permitida: true
+
+![[Calabazas.png|150]]

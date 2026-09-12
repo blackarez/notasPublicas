@@ -3,18 +3,19 @@ Para: Perros
 Pequeños (-10kg): medio huevo, 2-3 veces por semana
 Medianos (10-25 kg): 1 huevo, 3-4 veces por semana
 Grandes (más de 25 kg): 1 huevo al día está bien
-description: Excelente fuente de proteína y nutrientes.
+Descripcion: Excelente fuente de proteína y nutrientes.
 Imagen: "[[Huevos.png]]"
 Permitida: true
 ---
 
-```cardlink
-url: https://
-title: "Huevo cocido"
-description: "Excelente fuente de proteína y nutrientes."
-image: "[[Huevos.png]]"
-```
+Pequeños (-10kg): medio huevo, 2-3 veces por semana
+Medianos (10-25 kg): 1 huevo, 3-4 veces por semana
+Grandes (más de 25 kg): 1 huevo al día está bien
+Descripcion: Excelente fuente de proteína y nutrientes.
+Imagen: "[[Huevos.png]]"
+Permitida: true
 
+![[Huevos.png|150]]
 # Recomendaciones importantes:
 
 Mejor cocido (hervido o revuelto sin sal, aceite ni condimentos) que crudo. El huevo crudo tiene riesgo de salmonela y contiene avidina, una proteína que puede interferir con la absorción de biotina si se da de forma regular.

@@ -1,8 +1,14 @@
 ---
 Para: Gatos
 Cantidad:
-description: Puede causar hipoglucemia y daño hepático.
+Descripcion: Puede causar hipoglucemia y daño hepático.
 Imagen: "[[Edulcorante.png]]"
 Permitida: false
 ---
-![[Edulcorante.png]]
+
+Cantidad:
+Descripcion: Puede causar hipoglucemia y daño hepático.
+Imagen: "[[Edulcorante.png]]"
+Permitida: false
+
+![[Edulcorante.png|150]]

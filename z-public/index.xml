@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://blackarez.github.io/notasPublicas</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>DB-Gatos-Alimento</title>
+    <link>https://blackarez.github.io/notasPublicas/datos/db-gatos-alimento.base</link>
+    <guid>https://blackarez.github.io/notasPublicas/datos/db-gatos-alimento.base</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>DB-Perros-Alimento</title>
+    <link>https://blackarez.github.io/notasPublicas/datos/db-perros-alimento.base</link>
+    <guid>https://blackarez.github.io/notasPublicas/datos/db-perros-alimento.base</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>Datos</title>
+    <link>https://blackarez.github.io/notasPublicas/datos/</link>
+    <guid>https://blackarez.github.io/notasPublicas/datos/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>Perros</title>
+    <link>https://blackarez.github.io/notasPublicas/datos/perros/</link>
+    <guid>https://blackarez.github.io/notasPublicas/datos/perros/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>Comida</title>
+    <link>https://blackarez.github.io/notasPublicas/datos/gatos/comida/</link>
+    <guid>https://blackarez.github.io/notasPublicas/datos/gatos/comida/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>Gatos</title>
+    <link>https://blackarez.github.io/notasPublicas/datos/gatos/</link>
+    <guid>https://blackarez.github.io/notasPublicas/datos/gatos/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>Comida</title>
+    <link>https://blackarez.github.io/notasPublicas/datos/perros/comida/</link>
+    <guid>https://blackarez.github.io/notasPublicas/datos/perros/comida/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>youtube</title>
+    <link>https://blackarez.github.io/notasPublicas/tags/youtube</link>
+    <guid>https://blackarez.github.io/notasPublicas/tags/youtube</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>youtube/veterinario_gratis</title>
+    <link>https://blackarez.github.io/notasPublicas/tags/youtube/veterinario_gratis</link>
+    <guid>https://blackarez.github.io/notasPublicas/tags/youtube/veterinario_gratis</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://blackarez.github.io/notasPublicas/tags/</link>
+    <guid>https://blackarez.github.io/notasPublicas/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 12 Sep 2026 17:10:33 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

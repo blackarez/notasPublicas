@@ -9,7 +9,7 @@ views:
       direction: DESC
     order:
       - file.name
-      - description
-    image: note.Imagen
+      - Permitida
     cardSize: 140
     imageAspectRatio: 0.5
+    image: note.Imagen

@@ -2,7 +2,7 @@
 Tipo: Entretenimiento
 Categoria: Predeterminada
 Url: https://www.youtube.com/watch?v=8PStwu--oLA&list=PLxLC_QEbuLEdEEFFEe2ntl3eC8gQX8VlK&index=24
-description: ¿Tu perro tiene los ojos nublados y sospechas que pueden ser cataratas? En este vídeo te explico qué son realmente las cataratas en perros, si existen remedios caseros efectivos y qué opciones de trat
+Descripcion: ¿Tu perro tiene los ojos nublados y sospechas que pueden ser cataratas? En este vídeo te explico qué son realmente las cataratas en perros, si existen remedios caseros efectivos y qué opciones de trat
 Imagen:
 Host: "youtube.com "
 Etiquetas:

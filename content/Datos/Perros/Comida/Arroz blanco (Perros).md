@@ -1,9 +1,18 @@
 ---
 Para: Perros
-Cantidad:
-description: Suave para el sistema digestivo, útil en diarreas.
+Descripcion: Suave para el sistema digestivo, útil en diarreas.
 Imagen: "[[arroz.jpg]]"
 Permitida: true
+Pequeños (-10kg):
+Medianos (10-25 kg):
+Grandes (más de 25 kg):
 ---
 
-![[arroz.jpg]]
+Descripcion: Suave para el sistema digestivo, útil en diarreas.
+Imagen: "[[arroz.jpg]]"
+Permitida: true
+Pequeños (-10kg):
+Medianos (10-25 kg):
+Grandes (más de 25 kg):
+
+![[arroz.jpg|150]]

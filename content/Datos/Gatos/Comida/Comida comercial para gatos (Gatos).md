@@ -1,8 +1,14 @@
 ---
 Para: Gatos
 Cantidad:
-description: Balanceado y formulado específicamente para sus necesidades.
+Descripcion: Balanceado y formulado específicamente para sus necesidades.
 Imagen: "[[ComidaGatoComercial.jpg]]"
 Permitida: true
 ---
-![[ComidaGatoComercial.jpg]]
+
+Cantidad:
+Descripcion: Balanceado y formulado específicamente para sus necesidades.
+Imagen: "[[ComidaGatoComercial.jpg]]"
+Permitida: true
+
+![[ComidaGatoComercial.jpg|150]]

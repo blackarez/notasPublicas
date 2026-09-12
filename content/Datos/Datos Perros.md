@@ -1,6 +1,6 @@
 ---
 title: Datos Perros
-description: Información para cuidar a sus mascotas
+Descripcion: Información para cuidar a sus mascotas
 ---
 
 # Alimentos

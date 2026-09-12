@@ -1,8 +1,14 @@
 ---
 Para: Gatos
 Cantidad:
-description: Riesgo de asfixia o perforación intestinal.
+Descripcion: Riesgo de asfixia o perforación intestinal.
 Imagen: "[[Huesos.png]]"
 Permitida: false
 ---
-![[Huesos.png]]
+
+Cantidad:
+Descripcion: Riesgo de asfixia o perforación intestinal.
+Imagen: "[[Huesos.png]]"
+Permitida: false
+
+![[Huesos.png|150]]

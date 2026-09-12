@@ -1,8 +1,14 @@
 ---
 Para: Gatos
 Cantidad:
-description: Muy tóxico, afecta sistema nervioso.
+Descripcion: Muy tóxico, afecta sistema nervioso.
 Imagen: "[[Alcohol.jpg]]"
 Permitida: false
 ---
-![[Alcohol.jpg]]
+
+Cantidad:
+Descripcion: Muy tóxico, afecta sistema nervioso.
+Imagen: "[[Alcohol.jpg]]"
+Permitida: false
+
+![[Alcohol.jpg|150]]

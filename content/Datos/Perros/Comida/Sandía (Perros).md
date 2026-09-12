@@ -1,8 +1,18 @@
 ---
 Para: Perros
-Cantidad:
-description: Hidratante y refrescante. Se debe ofrecer sin semillas ni corteza.
+Descripcion: Hidratante y refrescante. Se debe ofrecer sin semillas ni corteza.
 Imagen: "[[sandia.jpg]]"
 Permitida: true
+Pequeños (-10kg):
+Medianos (10-25 kg):
+Grandes (más de 25 kg):
 ---
-![[sandia.jpg|365]]
+
+Descripcion: Hidratante y refrescante. Se debe ofrecer sin semillas ni corteza.
+Imagen: "[[sandia.jpg]]"
+Permitida: true
+Pequeños (-10kg):
+Medianos (10-25 kg):
+Grandes (más de 25 kg):
+
+![[sandia.jpg|150]]

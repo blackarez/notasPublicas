@@ -1,8 +1,18 @@
 ---
 Para: Perros
-Cantidad:
-description: Probiótico beneficioso (sin azúcar ni edulcorantes).
+Descripcion: Probiótico beneficioso (sin azúcar ni edulcorantes).
 Imagen: "[[YogurtNatural.jpg]]"
 Permitida: true
+Pequeños (-10kg):
+Medianos (10-25 kg):
+Grandes (más de 25 kg):
 ---
-![[YogurtNatural.jpg|343]]
+
+Descripcion: Probiótico beneficioso (sin azúcar ni edulcorantes).
+Imagen: "[[YogurtNatural.jpg]]"
+Permitida: true
+Pequeños (-10kg):
+Medianos (10-25 kg):
+Grandes (más de 25 kg):
+
+![[YogurtNatural.jpg|150]]

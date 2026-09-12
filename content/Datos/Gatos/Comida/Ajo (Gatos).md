@@ -1,8 +1,14 @@
 ---
 Para: Gatos
 Cantidad:
-description: Tóxico incluso en pequeñas cantidades.
+Descripcion: Tóxico incluso en pequeñas cantidades.
 Imagen: "[[Ajo.jpg]]"
 Permitida: false
 ---
-![[Ajo.jpg]]
+
+Cantidad:
+Descripcion: Tóxico incluso en pequeñas cantidades.
+Imagen: "[[Ajo.jpg]]"
+Permitida: false
+
+![[Ajo.jpg|150]]

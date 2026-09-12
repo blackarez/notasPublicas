@@ -1,8 +1,14 @@
 ---
 Para: Gatos
 Cantidad:
-description: Contiene teobromina, altamente tóxica.
+Descripcion: Contiene teobromina, altamente tóxica.
 Imagen: "[[Chocolate.jpg]]"
 Permitida: false
 ---
-![[Chocolate.jpg]]
+
+Cantidad:
+Descripcion: Contiene teobromina, altamente tóxica.
+Imagen: "[[Chocolate.jpg]]"
+Permitida: false
+
+![[Chocolate.jpg|150]]

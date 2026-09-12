@@ -1,8 +1,18 @@
 ---
 Para: Perros
-Cantidad:
-description: Si,Aporta omega-3; siempre cocido y sin espinas.
+Descripcion: Si,Aporta omega-3; siempre cocido y sin espinas.
 Imagen: "[[Pescado.jpg]]"
 Permitida: true
+Pequeños (-10kg):
+Medianos (10-25 kg):
+Grandes (más de 25 kg):
 ---
-![[Pescado.jpg]]
+
+Descripcion: Si,Aporta omega-3; siempre cocido y sin espinas.
+Imagen: "[[Pescado.jpg]]"
+Permitida: true
+Pequeños (-10kg):
+Medianos (10-25 kg):
+Grandes (más de 25 kg):
+
+![[Pescado.jpg|150]]

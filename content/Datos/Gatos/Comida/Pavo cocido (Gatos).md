@@ -1,8 +1,14 @@
 ---
 Para: Gatos
 Cantidad:
-description: Alternativa saludable, rica en proteínas.
+Descripcion: Alternativa saludable, rica en proteínas.
 Imagen: "[[Pavo.jpg]]"
 Permitida: true
 ---
-![[Pavo.jpg]]
+
+Cantidad:
+Descripcion: Alternativa saludable, rica en proteínas.
+Imagen: "[[Pavo.jpg]]"
+Permitida: true
+
+![[Pavo.jpg|150]]
