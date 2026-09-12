@@ -1,3 +1,7 @@
+---
+title: Datos Gatos
+description: Información para cuidar a sus mascotas
+---
 
 # Alimentos
 

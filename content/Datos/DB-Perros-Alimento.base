@@ -1,0 +1,15 @@
+filters:
+  and:
+    - Para == "Perros"
+views:
+  - type: cards
+    name: Vista
+    groupBy:
+      property: Permitida
+      direction: DESC
+    order:
+      - file.name
+      - description
+    image: note.Imagen
+    cardSize: 140
+    imageAspectRatio: 0.5

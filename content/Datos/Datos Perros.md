@@ -1,4 +1,7 @@
-
+---
+title: Datos Perros
+description: Información para cuidar a sus mascotas
+---
 
 # Alimentos
 Los alimentos [alimentos](DB-Perros-Alimento.base#Vista) que pueden y no comer

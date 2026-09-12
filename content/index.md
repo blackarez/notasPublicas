@@ -1,9 +1,6 @@
 ---
-title: Notas publicas
+title: Home
 ---
-
-
-[[Gatos]]
-[[Perros]]
-
-![[imagenTest1.png]]
+# Información mascotas
+[[Datos Gatos]]
+[[Datos Perros]]
